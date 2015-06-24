@@ -1,0 +1,18 @@
+{
+  "name": "hubot-macro",
+  "description": "A hubot script to generate an image macro using http://memegen.link/.",
+  "version": "0.0.1",
+  "author": "Justin Young <jry@ucla.edu>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whyjustin/hubot-macro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whyjustin/hubot-macro/issues"
+  }
+}
